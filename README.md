@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kHRYSTAL
-- 👀 I’m interested in Java, Javascript, python, blockchain, Android
+- 👀 I’m interested in Java, Javascript, python, blockchain/Web3, Android, HarmonyOS
 - 🌱 I’m currently learning Solidity and flutter
 - 💞️ I’m looking to collaborate on smart hardware
 - 📫 How to reach me khrystal0918@gmail.com
